@@ -1,5 +1,7 @@
 # twitter.com/kubectrl
 
+![@kubectrl on twitter](https://i.imgur.com/cr54ip0.png)
+
 `@kubectrl` is a Twitter account that shares interesting and amazing Kubernetes tools, like:
 
 * Plugins (for `krew`)
